@@ -37,6 +37,9 @@ dependencies:
   flutter_screenutil: ^5.9.3
   flutter_svg: ^2.0.10
   percent_indicator: ^4.2.5
+  font_awesome_flutter: ^10.4.0
+
+
 
 
 dev_dependencies:
