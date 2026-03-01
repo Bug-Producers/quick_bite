@@ -106,7 +106,7 @@ class Login extends StatelessWidget {
                       ),
                     ],
                   ),
-                   CustomTextField(hintText: "Enter Your Password"),
+                   CustomTextField(hintText: "Enter Your Password",isPassword: true,),
                   SizedBox(height: 36.h),
                   Center(
                     child: SizedBox(
